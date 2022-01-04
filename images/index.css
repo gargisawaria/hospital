@@ -1,0 +1,260 @@
+@media screen and (max-width: 767px) {
+    .w-100 {
+        height: 100vh;
+        width: 100%;
+        object-fit: cover;
+    }
+    .car-but {
+        font-size: 6px;
+    }
+    .carousel-content {
+        font-size: 40px !important;
+    }
+    .inner2 {
+        margin: 1% !important;
+    }
+    .compresshole {
+        margin: 1% !important;
+    }
+}
+
+@media screen and ( max-width:800px) {
+    #compress1 {
+        margin-left: 0% !important;
+    }
+    #compress {
+        margin-right: 0% !important;
+    }
+    .car-box {
+        transform: none !important;
+    }
+    #mar {
+        margin-top: 20% !important;
+    }
+}
+
+#mm {
+    font-size: 19.3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#nm {
+    font-size: 20px;
+    margin-left: 9%;
+}
+
+.ll {
+    list-style-type: none;
+    float: left;
+    padding: 0% 5%;
+    padding-top: 2%;
+}
+
+.l {
+    list-style-type: none;
+    float: left;
+    padding: 4%;
+}
+
+.fa {
+    color: white;
+}
+
+.bbb {
+    color: white;
+    text-decoration: none;
+}
+
+#alu {
+    font-size: 20px;
+    padding-top: 1%;
+}
+
+#imm {
+    margin-left: 9%;
+}
+
+#rr {
+    border-style: none none solid none;
+    border-color: white;
+    border-width: 0.1px;
+}
+
+.nav-item {
+    color: white;
+    padding: 0% 3%;
+    display: inline-block;
+    margin-bottom: 0px;
+    padding-bottom: 14px;
+}
+
+#butt {
+    color: white;
+    background-color: black;
+    border: none;
+}
+
+.nav-item:hover {
+    border-style: none none solid none;
+    border-color: white;
+    border-width: 1px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: 23%;
+    transform: translate(0px, 8px);
+}
+
+.bbb:hover {
+    color: white;
+}
+
+.carousel-item {
+    z-index: 0;
+}
+
+.inner {
+    z-index: 1;
+    position: absolute;
+    opacity: 0.7;
+    color: white;
+}
+
+.carousel-control-prev-icon {
+    background-color: gray;
+    margin-right: auto;
+    padding: 20% 14%;
+}
+
+.carousel-control-prev-icon:hover {
+    background-color: rgb(25, 150, 246);
+}
+
+.carousel-control-next-icon {
+    background-color: grey;
+    margin-left: auto;
+    padding: 20% 14%;
+}
+
+.carousel-control-next-icon:hover {
+    background-color: rgb(25, 150, 246);
+}
+
+.carousel-content {
+    text-align: left;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 2px 3px black;
+    margin-bottom: 4%;
+}
+
+.car-but {
+    background-color: white;
+    color: black;
+    border-radius: 3px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.carousel-caption {
+    margin-bottom: 17%;
+}
+
+.car-but:hover,
+.car-but :active {
+    background-color: rgb(25, 150, 246);
+}
+
+.car-box {
+    background-color: rgb(25, 150, 246);
+    color: white;
+    transform: translateY(-40%);
+}
+
+#car-down {
+    padding: 7% 6%;
+}
+
+#para {
+    font-size: 15px;
+    padding: 0% 6%;
+}
+
+#read {
+    border-style: solid;
+    border-color: white;
+    padding: 2%;
+    color: white;
+    text-decoration: none;
+}
+
+#compress1 {
+    margin-left: 10%;
+}
+
+#compress {
+    margin-right: 10%;
+}
+
+
+/*container below carousel  columns part*/
+
+.inner2 {
+    box-shadow: 1px 1px 20px rgb(219, 219, 219);
+    text-align: center;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+
+/*image below carousel part*/
+
+#im-be {
+    border-style: solid;
+    border-color: rgb(209, 204, 204);
+    border-radius: 100%;
+    padding: 8%;
+    margin: 13%;
+}
+
+
+/*content below im-be*/
+
+#imfont {
+    color: grey;
+    margin-bottom: 6%;
+}
+
+
+/*owl carousel background part*/
+
+.cooo {
+    background-color: rgb(229, 227, 227);
+    margin-top: 10%;
+}
+
+
+/*owl carousel heading*/
+
+#owl-h {
+    text-align: center;
+    padding: 2% 0%;
+    padding-top: 8%;
+}
+
+#read2 {
+    border-style: solid;
+    border-color: rgb(25, 150, 246);
+    padding: 2%;
+    color: rgb(25, 150, 246);
+    text-decoration: none;
+}
+
+
+/*container of owl carousel  columns part*/
+
+figure {
+    box-shadow: 1px 1px 20px rgb(118, 114, 114);
+}
