@@ -6,6 +6,7 @@
     }
     .car-but {
         font-size: 6px;
+        margin-top:10% !important;
     }
     .carousel-content {
         font-size: 40px !important;
@@ -53,7 +54,7 @@
         padding-top: 14%;
     }
     .padd {
-        padding: 30% 0% !important;
+        padding: 20% 0% !important;
     }
     .second-w {
         height: 50vh !important;
@@ -98,6 +99,7 @@
     }
     .contt {
         margin-left: 0% !important;
+        padding: 5% 0%;
     }
     .navbar .nav-link {
         color: black !important;
@@ -121,6 +123,12 @@
     .navbar-toggler {
         list-style-type: none;
         border-style: none !important;
+    }
+    .p-b{
+        padding-bottom:5% !important;
+    }
+    .p-t{
+        padding:14% 5% !important;
     }
 }
 
@@ -168,6 +176,7 @@
     }
     .rat {
         text-align: center;
+        padding-bottom:5% ;
     }
 }
 
@@ -555,6 +564,8 @@ figure {
 .p-align {
     text-align: center;
     color: gray;
+    padding-left:2%;
+    padding-right: 2%;
 }
 
 .img-width {
