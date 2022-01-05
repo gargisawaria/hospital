@@ -686,23 +686,23 @@ figure {
 }
 
 #colo {
-    background-color: blue;
+    background-color: rgb(13, 116, 195);
 }
 
 #colo:active,
 #colo:hover,
 #colo:focus {
-    background-color: blue;
+    background-color: rgb(13, 116, 195);
 }
 
 #colo1 {
-    background-color: blue;
+    background-color: rgb(13, 116, 195);
 }
 
 #colo1:active,
 #colo1:hover,
 #colo1:focus {
-    background-color: blue;
+    background-color: rgb(13, 116, 195);
 }
 
 .trans {
@@ -912,8 +912,8 @@ figure {
 
 #carouselExampleControl .carousel-control-prev,
 #carouselExampleControl .carousel-control-next {
-    top: 0%;
-    bottom: 100%;
+    top: -3%;
+    bottom: 103%;
 }
 
 .colooor {
