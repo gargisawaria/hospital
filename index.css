@@ -155,7 +155,7 @@
             margin-top: 10%;
         }
         #compress6 {
-            margin-left: 1% !important;
+            margin-left: 0% !important;
         }
         .contt {
             margin-left: 0% !important;
@@ -1152,10 +1152,6 @@
     
     #fifteen {
         margin-bottom: 15%
-    }
-    
-    #two {
-        margin-left: 2%;
     }
     
     #grey {
