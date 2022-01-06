@@ -172,6 +172,7 @@
         }
         .navbar .nav-item:hover {
             background-color: rgb(13, 116, 195);
+            width: 130% !important;
         }
         .navbar-collapse {
             background-color: white;
